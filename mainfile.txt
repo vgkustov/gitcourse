@@ -1,0 +1,5 @@
+Hello GitHub!
+This is first file in this particular repo
+
+Just add some text
+And that's all.
